@@ -1,0 +1,7 @@
+student_id,student_name,course_id,course_name,score,date
+1,John Doe,101,Math,85.0,2024-01-15
+2,Jane Smith,102,Science,90.5,2024-01-16
+3,Sam Brown,101,Math,78.0,2024-01-17
+4,Lisa White,103,History,92.0,2024-01-18
+1,John Doe,102,Science,88.0,2024-01-19
+2,Jane Smith,101,Math,70.0,2024-01-20
